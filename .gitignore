@@ -1,0 +1,5 @@
+# Ignore Python virtual environment
+myenv/
+
+# Ignore run.txt file
+run.txt
